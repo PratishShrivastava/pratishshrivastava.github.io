@@ -244,11 +244,11 @@ section{
 }
 .Social_section .container .head ul{
     text-decoration: none;
-    list-style: none;
     display: flex;
     justify-content: center;
 }
 .Social_section .container .head ul li{
+    list-style: none;
     cursor: pointer;
     padding: 1em;
 }
